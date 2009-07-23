@@ -1,0 +1,10 @@
+lib/*
+bin/*
+dist/*
+include/*
+build/*
+docs/build/doctrees/*
+src/GeoPaver.egg-info/*
+*.pyc
+*~
+*.egg-info/*
